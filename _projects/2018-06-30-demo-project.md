@@ -3,10 +3,10 @@ title: 'What is Replica Economics?'
 subtitle: 'Learn More'
 date: 2018-06-30 00:00:00
 description: Find out why this BCH Token exists to help you.
-featured_image: 'imgur.com/wu7kSg8'
+featured_image: 'https://imgur.com/wu7kSg8'
 ---
 
-![](/images/demo/demo-square.jpg)
+![](https://imgur.com/wu7kSg8)
 
 ## Demo content
 
