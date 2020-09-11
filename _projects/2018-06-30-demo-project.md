@@ -1,8 +1,8 @@
 ---
-title: 'Replica Economics'
-subtitle: 'This is a demo'
+title: 'What is Replica Economics?'
+subtitle: 'Learn More'
 date: 2018-06-30 00:00:00
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
+description: Find out why this BCH Token exists to help you.
 featured_image: 'https://imgur.com/wu7kSg8'
 ---
 
