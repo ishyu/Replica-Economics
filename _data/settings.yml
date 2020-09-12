@@ -12,7 +12,7 @@ menu_settings:
       url: '/'
     - title: 'Mission'
       url: '/blog/'
-    - title: 'Information'
+    - title: 'Origin'
       url: '/about'
     - title: 'Contact'
       url: '/contact'
