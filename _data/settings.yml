@@ -11,7 +11,7 @@ menu_settings:
     - title: 'Overview'
       url: '/'
     - title: 'Mission'
-      url: '/missi/'
+      url: '/mission/'
     - title: 'Origin'
       url: '/origin'
     - title: 'Contact'
