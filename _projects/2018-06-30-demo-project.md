@@ -10,7 +10,7 @@ featured_image: '/images/skyline.jpg'
 
 ## Economic Education
 
-## Replica Tokens
+## Replica Token
 
 ## Tutorials
 
