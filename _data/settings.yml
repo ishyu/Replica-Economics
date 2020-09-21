@@ -11,9 +11,9 @@ menu_settings:
     - title: 'Overview'
       url: '/'
     - title: 'Mission'
-      url: '/blog/'
+      url: '/mission/'
     - title: 'Origin'
-      url: '/about'
+      url: '/origin'
     - title: 'Contact'
       url: '/contact'
 
@@ -27,7 +27,7 @@ post_settings:
   grid_spacing: 10
 
 contact_settings:
-  form_action: ''
+  form_action: 'https://formspree.io/mjvpvbre'
   confirmation_url: '/thanks'
   email_subject: 'Contact form submission'
   send_button_text: 'Send Message'
