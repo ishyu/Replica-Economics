@@ -14,8 +14,9 @@ Whether or not we are aware, economics impact are lives daily. Acknowledging the
 
 
 ## Replica Token
-
+---
 Token Symbol: REP
 Token Name: Replica
 Token Decimals : 9
 Token Supply: 100,000,000
+---
