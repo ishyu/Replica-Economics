@@ -1,6 +1,6 @@
 ---
 title: 'What is Replica Economics?'
-subtitle: 'Learn More'
+subtitle: 'Overview'
 date: 2018-06-30 00:00:00
 description: Find out why this BCH Token exists to help you.
 featured_image: '/images/skyline.jpg'
@@ -16,10 +16,15 @@ Whether or not we are aware, economics impact are lives daily. Acknowledging the
 ## Replica Token Specifications
 
 *Token Symbol: REP
+
 *Token Name: Replica
+
 *Token Decimals : 9
+
 *Token Supply(Not Fixed): 100,000,000.0
+
 *Interest Reservation: 75% of Token Supply(75,000,000.0)
+
 *Available Circulating Supply: 25% of Token Supply(25,000,000.0)
 
 # Additional Network Tokens
@@ -30,9 +35,11 @@ Coming Soon...
 # Where to Buy/Acquire Replica
 
 *Exchanges
+
   *Coming Soon...
 
 *Websites
+
   *Coming Soon...
   
 #Additional Information
