@@ -1,7 +1,6 @@
 ---
 title: 'What is Replica Economics?'
 subtitle: 'Learn More'
-date: 2018-06-30 00:00:00
 description: Find out why this BCH Token exists to help you.
 featured_image: '/images/skyline.jpg'
 ---
@@ -27,10 +26,12 @@ Whether or not we are aware, economics impact are lives daily. Acknowledging the
 
 *Available Circulating Supply: 25% of Token Supply(25,000,000.0)
 
+
 # Additional Network Tokens
 
 Coming Soon...
 (Select industrial tokens within the network that will support the Replica ecosystem)
+
 
 # Where to Buy/Acquire Replica
 
@@ -42,7 +43,8 @@ Coming Soon...
 
   *Coming Soon...
   
-#Additional Information
+  
+# Additional Information
 
 Bitcoin Cash News
 
