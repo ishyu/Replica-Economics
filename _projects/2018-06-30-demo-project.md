@@ -5,7 +5,7 @@ description: Find out why this BCH Token exists to help you.
 featured_image: '/images/skyline.jpg'
 ---
 
-![replica_logo_2](assets/images/replica_logo_2.jpeg)
+![replica_logo_2](/images/replica_logo_2.jpeg)
 
 ## Economic Education
 
