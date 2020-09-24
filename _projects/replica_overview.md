@@ -1,11 +1,11 @@
 ---
 title: 'What is Replica Economics?'
-subtitle: 'Learn More'
+subtitle: ''
 description: Find out why this BCH Token exists to help you.
 featured_image: '/images/skyline.jpg'
 ---
 
-![](/images/replica_logo_2.jpeg)
+![replica_logo_2](/images/replica_logo_2.jpeg)
 
 ## Economic Education
 
