@@ -27,13 +27,13 @@ Whether or not we are aware, economics impact are lives daily. Acknowledging the
 *Available Circulating Supply: 25% of Token Supply(25,000,000.0)
 
 
-# Additional Network Tokens
+## Additional Network Tokens
 
 Coming Soon...
 (Select industrial tokens within the network that will support the Replica ecosystem)
 
 
-# Where to Buy/Acquire Replica
+## Where to Buy/Acquire Replica
 
 *Exchanges
 
@@ -44,7 +44,7 @@ Coming Soon...
   *Coming Soon...
   
   
-# Additional Information
+## Additional Information
 
 Bitcoin Cash News
 
