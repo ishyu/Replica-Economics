@@ -14,17 +14,17 @@ Whether or not we are aware, economics impact are lives daily. Acknowledging the
 
 ## Replica Token Specifications
 
-*Token Symbol: REP
+* Token Symbol: REP
 
-*Token Name: Replica
+* Token Name: Replica
 
-*Token Decimals : 9
+* Token Decimals : 9
 
-*Token Supply(Not Fixed): 100,000,000.0
+* Token Supply(Not Fixed): 100,000,000.0
 
-*Interest Reservation: 75% of Token Supply(75,000,000.0)
+* Interest Reservation: 75% of Token Supply(75,000,000.0)
 
-*Available Circulating Supply: 25% of Token Supply(25,000,000.0)
+* Available Circulating Supply: 25% of Token Supply(25,000,000.0)
 
 
 ## Additional Network Tokens
@@ -35,13 +35,13 @@ Coming Soon...
 
 ## Where to Buy/Acquire Replica
 
-*Exchanges
+* Exchanges
 
-  *Coming Soon...
+  * Coming Soon...
 
-*Websites
+* Websites
 
-  *Coming Soon...
+  * Coming Soon...
   
   
 ## Additional Information
