@@ -1,6 +1,6 @@
 ---
 title: 'What is Replica Economics?'
-subtitle: ''
+subtitle: 'Use Case'
 description: Find out why this BCH Token exists to help you.
 featured_image: '/images/skyline.jpg'
 ---
