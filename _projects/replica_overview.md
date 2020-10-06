@@ -37,7 +37,7 @@ Coming Soon...
 
 * Exchanges
 
-  * Coming Soon...
+  * https://www.anycoin.cash/#/pages/general/home
 
 * Websites
 
