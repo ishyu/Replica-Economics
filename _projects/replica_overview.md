@@ -24,9 +24,12 @@ Whether or not we are aware, economics impact are lives daily. Acknowledging the
 
 * Interest Reservation: 75% of Token Supply(75,000,000.0)
 
-* Available Circulating Supply: 25% of Token Supply(25,000,000.0)
+* Available Circulating Supply: (200,000.0)
 
-
+* Remaining Circulating Supply: (24,800,000.0)
+  -Remaining circulating supply will be used for future exchanges, and social platforms.
+  
+* API Circulating Supply Coming Soon. 
 ## Additional Network Tokens
 
 Coming Soon...
