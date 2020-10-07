@@ -42,10 +42,12 @@ Coming Soon...
 * Exchanges
 
   * https://www.anycoin.cash/#/pages/general/home
+   (Supplied 100,000.0 REP 10/4/20)
   
   * https://memo.cash/
+   (Supplied 100,000.0 REP 10/5/20)
   
-* Websites
+* Network Websites
 
   * Coming Soon...
   
