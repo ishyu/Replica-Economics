@@ -42,7 +42,9 @@ Coming Soon...
 * Exchanges
 
   * https://www.anycoin.cash/#/pages/general/home
-
+  
+  *https://memo.cash/
+  
 * Websites
 
   * Coming Soon...
