@@ -43,7 +43,7 @@ Coming Soon...
 
   * https://www.anycoin.cash/#/pages/general/home
   
-  *https://memo.cash/
+  * https://memo.cash/
   
 * Websites
 
