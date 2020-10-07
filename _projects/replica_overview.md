@@ -27,9 +27,10 @@ Whether or not we are aware, economics impact are lives daily. Acknowledging the
 * Available Circulating Supply: (200,000.0)
 
 * Remaining Circulating Supply: (24,800,000.0)
-  -Remaining circulating supply will be used for future exchanges, and social platforms.
+  Note: Remaining circulating supply will be used for future exchanges, and social platforms.
   
 * API Circulating Supply Coming Soon. 
+
 ## Additional Network Tokens
 
 Coming Soon...
