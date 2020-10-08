@@ -14,7 +14,7 @@ Whether or not we are aware, economics impact are lives daily. Acknowledging the
 
 ## Replica Token Specifications
 
-** Token Symbol: REP
+*  Token Symbol: REP
 
 * Token Name: Replica
 
