@@ -5,7 +5,9 @@ description: The history behind Replica
 featured_image: /images/origin2.jpeg
 ---
 
+
 ![](../images/meeting.jpg)
+
 
 ## Economic Encouragement, Creativity, & Development
 
