@@ -4,7 +4,7 @@ subtitle: Our Purpose
 description: The history behind Replica
 featured_image: /images/origin2.jpeg
 ---
-![](/..https://github.com/fintechntrusts2020/Replica-Economics/blob/gh-pages/images/meeting.jpg)
+![](/../https://github.com/fintechntrusts2020/Replica-Economics/blob/gh-pages/images/meeting.jpg)
 
 ## Economic Encouragement, Creativity, & Development
 
