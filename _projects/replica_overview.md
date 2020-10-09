@@ -14,29 +14,22 @@ featured_image: '/images/skyline.jpg'
 
 ## Replica Token Specifications
 
-* Token Symbol: REP
++ Token Symbol: REP
 
++ Token Name: Replica
 
-* Token Name: Replica
++ Token Decimals : 9
 
++ Token Supply(Not Fixed): 100,000,000.0
 
-* Token Decimals : 9
++ Interest Reservation: 75% of Token Supply(75,000,000.0)
 
++ Available Circulating Supply: (200,000.0)
 
-* Token Supply(Not Fixed): 100,000,000.0
-
-
-* Interest Reservation: 75% of Token Supply(75,000,000.0)
-
-
-* Available Circulating Supply: (200,000.0)
-
-
-* Remaining Circulating Supply: (24,800,000.0)
++ Remaining Circulating Supply: (24,800,000.0)
   Note: Remaining circulating supply will be used for future exchanges, and social platforms.
  
- 
-* API Circulating Supply Coming Soon. 
++ API Circulating Supply Coming Soon. 
 
 
 ## Additional Network Tokens
@@ -49,10 +42,10 @@ Coming Soon...
 
 * Exchanges
 
-  * [Anycoin.cash]
+  * [Anycoin.cash](https://www.anycoin.cash/)
    (Supplied 100,000.0 REP 10/4/20)
   
-  * [Memo.cash]
+  * [Memo.cash](https://memo.cash/)
    (Supplied 100,000.0 REP 10/5/20)
   
 * Network Websites
