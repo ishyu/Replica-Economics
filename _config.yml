@@ -1,7 +1,7 @@
 site: Replica Economics
 
 url: 
-baseurl: Replica-Economics
+baseurl: 
 
 collections:
   pages:
