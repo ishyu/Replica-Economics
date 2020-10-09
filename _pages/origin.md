@@ -16,5 +16,3 @@ Replica was created with 1 goal in mind, and that's to stimulate awareness regar
 ## Networking, Projects, & Funding
 
 
-![](../images/replica_logo_2.jpeg)
-
