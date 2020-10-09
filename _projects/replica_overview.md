@@ -41,8 +41,8 @@ Coming Soon...
     
 ## Additional Information
 
-Bitcoin Cash News
+[Bitcoin Cash News](https://news.bitcoin.com/)
 
-SLP Token News
+[Simple Ledger Protocol News](https://simpleledger.cash/blog/)
 
-Tutorials
+[Tutorials](https://www.youtube.com/playlist?list=PLRrNLF1aV3rt-MQKnLLM9RP7Wtr84UtNh)
