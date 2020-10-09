@@ -16,6 +16,11 @@ Whether or not we are aware, economics impact are lives daily. Acknowledging the
 
 + Token Symbol: REP
 + Token Name: Replica
++ Token Supply(Not Fixed): 100,000,000.0
++ Interest Reservation: 75% of Token Supply(75,000,000.0)
++ Available Circulating Supply: (200,000.0)
++ Remaining Circulating Supply: (24,800,000.0)
++ Circulating Supply API Coming Soon. 
 
 ## Additional Network Tokens
 
