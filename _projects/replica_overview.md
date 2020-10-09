@@ -31,18 +31,14 @@ Coming Soon...
 ## Where to Buy/Acquire Replica
 
 * Exchanges
-
   * [Anycoin.cash](https://www.anycoin.cash/)
    (Supplied 100,000.0 REP 10/4/20)
-  
   * [Memo.cash](https://memo.cash/)
    (Supplied 100,000.0 REP 10/5/20)
-  
+   
 * Network Websites
-
   * Coming Soon...
-  
-  
+    
 ## Additional Information
 
 Bitcoin Cash News
