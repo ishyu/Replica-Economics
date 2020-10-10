@@ -4,7 +4,7 @@ subtitle: Our Purpose
 description: The history behind Replica
 featured_image: /images/origin2.jpeg
 ---
-![](images/demo/meeting.jpg)
+<img src="images/demo/meeting.jpg">
 
 ## Economic Encouragement, Creativity, & Development
 
